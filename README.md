@@ -1,4 +1,4 @@
-## Hello World, I'm Maurício!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Hello World, I'm Maurício!! <img src=https://github.com/mauriciobenigno/mauriciobenigno/blob/master/Assets/Earth.gif width="30">
  
 … Android Native Developer 👩‍💻
  
@@ -15,6 +15,14 @@ Lover of Technology and Coding 💓
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+
+
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+
+| [<img src="https://github.com/mauriciobenigno/mauriciobenigno/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/mauriciobenigno) | [<img src="https://github.com/mauriciobenigno/mauriciobenigno/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/mauricio_bvo) | [<img src="https://github.com/mauriciobenigno/mauriciobenigno/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/maumaubenigno/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mauriciobenigno) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/9501881/mauricio-benigno)| [<img src="https://github.com/mauriciobenigno/mauriciobenigno/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mauriciojbas@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 - Thanks for visiting. 
  
